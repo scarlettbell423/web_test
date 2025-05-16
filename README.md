@@ -7,6 +7,16 @@ This will be a demo to create your own website
 2. Open terminal: MAC - command + space, type in terminal.  Windows - search terminal
 
 3. Install Git:  sudo dnf install git-all
+ - if that doesn't work: try
+    
+    git --version
+
+    your computer may ask you to install
+
+    or
+
+    sudo apt install git-all
+
 
 4. Copy URL of your repo - use SSH url
 
