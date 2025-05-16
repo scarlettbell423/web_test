@@ -27,3 +27,5 @@ This will be a demo to create your own website
 6. Navigate to your project using VS code
 
 7. Create new file.
+
+
