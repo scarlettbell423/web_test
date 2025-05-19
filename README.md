@@ -1,3 +1,4 @@
+
 # web_test
 This will be a demo to create your own website
 
@@ -39,4 +40,19 @@ update pictures in assesets folder. Consider to change favicon, planet.  Remembe
 # Change your description
 
 update index.html. Locate your description of any sub-field, update the sentences.
+
+
+### Citation
+
+Earth image:
+https://earth.google.com/web
+
+X-Men image:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.menshealth.com%2Fentertainment%2Fa34773910%2Fx-men-movie-order%2F&psig=AOvVaw2ldcTVfbYTjRs34kqN2iiS&ust=1747758677875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNithMv6r40DFQAAAAAdAAAAABAE
+
+Code reference:
+https://github.com/ndoherty-xyz/unemployables-portfolio-template
+
+https://roboticenergyllc.com
+
 
