@@ -5,6 +5,7 @@
 /* GitHub : github.com/VincentGarreau/particles.js
 /* How to use? : Check the GitHub README
 /* v2.0.0
+/* updated Michael Guo 5/18/25
 /* ----------------------------------------------- */
 
 var pJS = function(tag_id, params){
