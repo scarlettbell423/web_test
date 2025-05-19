@@ -66,6 +66,7 @@
 
  - Use index.css to change font color and background color.
 
+ * Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. *
 ## 4.2 Change backgound picture
 
  - Update pictures in assesets folder. Consider to change favicon, planet.  Remember to use the same name and extension.
@@ -74,7 +75,9 @@
 
  - Update index.html. Locate your description of any sub-field, update the sentences.
 
-## 4.4 Update your resume
+ * HTML, short for HyperText Markup Language, is the foundation of every webpage. It's a markup language used to structure and organize content on the web, defining elements like headings, paragraphs, images, and links. *
+
+## 4.4 Update your resume or use other pdf file
 
  - Update the pdf file in assests directory
 
@@ -87,7 +90,7 @@
 
 # 6. References
 
-- properly cite any images used in your project.
+- Properly cite any images used in your project.
 - Cite any other references you have used and update the references.
 
 Earth image:
