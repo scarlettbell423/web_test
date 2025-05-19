@@ -14,7 +14,7 @@
     
     git --version
 
-    your computer may ask you to install
+    your computer may ask you to install git, which will take ~20 GB storage.
 
     or
 
@@ -41,21 +41,25 @@
 
 2. copy the key to your repo add public key   
 
-## 2.3 Preveiw your change local
+## 2.3 Preveiw your change locally
 1. Save all your changes in VS code
+
 2. Go to your folder on computer ---> double click index.html
 
 
 
 # 3. Web dev. using github directly
  - You may navigate to the github repo. and make changes online directly. Click on edit button, make any neccessary changes that you need. Then Commit changes with your messages. 
+
  - Add useful commit messages about what has changed, so you could find them later if you changed your mind.
 
 ## 3.1 Preveiw your change online
 
- - Where do I find my url?  your repo ---> Settings ----> Pages
+ - Where do I find my url?  your repo ---> Settings ----> Pages   
 
- - Use your saved webpage url, refresh your page after saving.  
+ - Save the URL in your bookmark and refresh it after you commit your changes. 
+
+ - Use your saved webpage url, refresh your page after saving.  It takes about 30s to have the new change.
 
 # 4. Both local and web dev. use the same change for the following.
 ## 4.1 Change color
@@ -78,6 +82,7 @@
 
 1. Navigate to your project on github. ----> Settings ---->Pages----->Branch (select main)
 
+2. Wait about 30s and refresh the page, you should see the public url now.
   
 
 # 6. Citation
