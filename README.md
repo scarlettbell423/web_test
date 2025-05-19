@@ -85,7 +85,10 @@
 2. Wait about 30s and refresh the page, you should see the public url now.
   
 
-# 6. Citation
+# 6. References
+
+- properly cite any images used in your project.
+- Cite any other references you have used and update the references.
 
 Earth image:
 https://earth.google.com/web
