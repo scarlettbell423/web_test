@@ -1,8 +1,12 @@
 
-# web_test
-This will be a demo to create your own website using git, VS code, and github. You could skip the git and VS code and use the github web version directly for the edit.
+# 1. web_test Intro.
+ - This is a demo and template to create your own website using git, VS code, and github. 
+ - You could skip the git and VS code and use the github web version directly to create your own website.
 
-# Local dev. Instructions uinsg git and VS code:
+ - To use local dev., follow instructions 2 , 4, 5
+ - To use web. dev., follow instructions 3 , 4, 5
+
+# 2. Local dev. Instructions using git and VS code:
 1. Download and install VS code studio 
 2. Open terminal: MAC - command + space, type in terminal.  Windows - search terminal
 3. Install Git:  sudo dnf install git-all
@@ -24,53 +28,59 @@ This will be a demo to create your own website using git, VS code, and github. Y
 6. Navigate to your project using VS code
 
 
-## Push changes to git ** 
+## 2.1 Push changes to git ** 
 
 1. In terminal, go to your folder. Follow the below command exactly.
 2. git add .
 3. git commit -m "update contents"
 4. git push origin main
 
-
-## Preveiw your change local
-1. Save all your changes in VS code
-2. Go to your folder on computer ---> double click index.html
-
-# Web dev. using github directly
-You may navigate to the github repo. and make changes online directly.
-
-## Preveiw your change online
-
-Use your saved webpage url, refresh your page after saving.
-
-# Both local and web dev. use the same change for the following.
-## Change color
-
-Use index.css to change font color and background color
-
-## Change backgound picture
-
-update pictures in assesets folder. Consider to change favicon, planet.  Remember to use the same name and extension.
-
-## Change your description
-
-update index.html. Locate your description of any sub-field, update the sentences.
-
-## Update your resume
-
-update the pdf file in assests directory
-
-# Publish your web
-
-1. Navigate to your project on github. ----> Settings ---->Pages----->Branch (select main)
-
-# Don't have ssh-key?
+## 2.2 Don't have ssh-key?
 
 1. ssh-keygen -t rsa -C "you@example.com" 
 
-2. copy the key to your repo add public key     
+2. copy the key to your repo add public key   
 
-# Citation
+## 2.3 Preveiw your change local
+1. Save all your changes in VS code
+2. Go to your folder on computer ---> double click index.html
+
+
+
+# 3. Web dev. using github directly
+ - You may navigate to the github repo. and make changes online directly. Click on edit button, make any neccessary changes that you need. Then Commit changes with your messages. 
+ - Add useful commit messages about what has changed, so you could find them later if you changed your mind.
+
+## 3.1 Preveiw your change online
+
+ - Where do I find my url?  your repo ---> Settings ----> Pages
+
+ - Use your saved webpage url, refresh your page after saving.  
+
+# 4. Both local and web dev. use the same change for the following.
+## 4.1 Change color
+
+ - Use index.css to change font color and background color.
+
+## 4.2 Change backgound picture
+
+ - Update pictures in assesets folder. Consider to change favicon, planet.  Remember to use the same name and extension.
+
+## 4.3 Change your description
+
+ - Update index.html. Locate your description of any sub-field, update the sentences.
+
+## 4.4 Update your resume
+
+ - Update the pdf file in assests directory
+
+# 5. Publish your web
+
+1. Navigate to your project on github. ----> Settings ---->Pages----->Branch (select main)
+
+  
+
+# 6. Citation
 
 Earth image:
 https://earth.google.com/web
