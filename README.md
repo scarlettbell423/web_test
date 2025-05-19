@@ -54,6 +54,11 @@ update the pdf file in assests directory
 
 1. Navigate to your project on github. ----> Settings ---->Pages----->Branch (select main)
 
+# Don't have ssh-key?
+
+1. ssh-keygen -t rsa -C "you@example.com" 
+
+2. copy the key to your repo add public key     
 
 # Citation
 
