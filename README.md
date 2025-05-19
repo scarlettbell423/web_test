@@ -1,8 +1,8 @@
 
 # web_test
-This will be a demo to create your own website
+This will be a demo to create your own website using git, VS code, and github. You could skip the git and VS code and use the github web version directly for the edit.
 
-# Instructions:
+# Local dev. Instructions uinsg git and VS code:
 1. Download and install VS code studio 
 2. Open terminal: MAC - command + space, type in terminal.  Windows - search terminal
 3. Install Git:  sudo dnf install git-all
@@ -23,32 +23,42 @@ This will be a demo to create your own website
 
 6. Navigate to your project using VS code
 
-# Preveiw your change
-1. Save all your changes in VS code
-2. Go to your folder on computer ---> double click index.html
 
-# Change color
-
-Use index.css to change font color and background color
-
-# Change backgound picture
-
-update pictures in assesets folder. Consider to change favicon, planet.  Remember to use the same name and extension.
-
-# Change your description
-
-update index.html. Locate your description of any sub-field, update the sentences.
-
-# Update your resume
-
-update the pdf file in assests directory
-
-# Push changes to git
+## Push changes to git ** 
 
 1. In terminal, go to your folder. Follow the below command exactly.
 2. git add .
 3. git commit -m "update contents"
 4. git push origin main
+
+
+## Preveiw your change local
+1. Save all your changes in VS code
+2. Go to your folder on computer ---> double click index.html
+
+# Web dev. using github directly
+You may navigate to the github repo. and make changes online directly.
+
+## Preveiw your change online
+
+Use your saved webpage url, refresh your page after saving.
+
+# Both local and web dev. use the same change for the following.
+## Change color
+
+Use index.css to change font color and background color
+
+## Change backgound picture
+
+update pictures in assesets folder. Consider to change favicon, planet.  Remember to use the same name and extension.
+
+## Change your description
+
+update index.html. Locate your description of any sub-field, update the sentences.
+
+## Update your resume
+
+update the pdf file in assests directory
 
 # Publish your web
 
