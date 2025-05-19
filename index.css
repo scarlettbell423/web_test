@@ -3,7 +3,7 @@
 body {
     padding:0px;
     margin:0px;
-    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://images.unsplash.com/photo-1491956175078-460aea0914ca?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1550&q=80") center center;
+    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("assets/planet.jpg") center center;
     background-size:cover;
     width:100vw;
     height:100vh;
@@ -14,7 +14,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background:rgb(255, 50, 50);
+    background:rgb(80, 89, 80);
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -26,7 +26,7 @@ body {
     width:50px;
     height:50px;
     border:12px solid #fff;
-    border-bottom:12px solid rgb(255, 50, 50);
+    border-bottom:12px solid rgb(79, 98, 85);
     border-radius:50%;
     margin:0;
 }
@@ -47,10 +47,10 @@ body {
     display:inline-block;
 }
 .box1 {
-    background:rgb(255, 50, 50);
+    background:rgb(32, 92, 221);
 }
 .box2 {
-    background:rgb(255, 50, 50);
+    background:rgb(35, 169, 222);
     margin-left:-5px;
 }
 #menu {
@@ -79,7 +79,7 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:rgb(255, 50, 50);
+    color:rgb(237, 11, 11);
     font-size:70px;
     text-decoration:underline;
 }
@@ -155,19 +155,19 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #projects:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(16, 16, 17, 0.9);
     cursor:pointer;
 }
 #about:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(16, 17, 17, 0.9);
     cursor:pointer;
 }
 #work:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(16, 16, 16, 0.9);
     cursor:pointer;
 }
 #contact:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(12, 12, 12, 0.9);
     cursor:pointer;
 }
 #middle table {
@@ -187,13 +187,13 @@ body {
 }
 .social:hover { 
     cursor: pointer;
-    color:rgb(255, 50, 50);
+    color:rgb(12, 12, 12);
 }
 .container {
     width:90vw;
     height:90vh;
     padding:5vh 5vw;
-    background:rgb(255, 50, 50);
+    background:rgb(11, 11, 11);
     color:#fff;
     z-index:9;
     position:fixed;
@@ -247,13 +247,13 @@ body {
 }
 .btn_one:hover {
     cursor:pointer;
-    color:rgb(255, 50, 50);
+    color:rgb(50, 245, 255);
     background:#fff;
 }
 .btn_two {
     font-size:18px;
     font-family: 'Josefin Sans', sans-serif;
-    color:rgb(255, 50, 50);
+    color:rgb(7, 7, 7);
     background:#fff;
     border:3px solid #fff;
     padding:8px 40px;

@@ -28,4 +28,15 @@ This will be a demo to create your own website
 
 7. Create new file.
 
+# Change color
+
+Use index.css to change font color and background color
+
+# Change backgound picture
+
+update pictures in assesets folder. Consider to change favicon, planet.  Remember to use the same name and extension.
+
+# Change your description
+
+update index.html. Locate your description of any sub-field, update the sentences.
 
